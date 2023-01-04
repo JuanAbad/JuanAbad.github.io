@@ -1,0 +1,10 @@
+body{
+    background-image: url('FondoReyes2.jpg');
+    background-position: center;
+}
+#AudioMostrar{
+    opacity: 0;
+}
+#formPablito{
+    display: none;
+}
